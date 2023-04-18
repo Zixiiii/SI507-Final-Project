@@ -10,7 +10,7 @@
 
 ## Description of interaction:
 The system is an NBA Player Searching System
-* Home page: http://127.0.0.1:5000/(Open using flask)
+* Home page: http://127.0.0.1:5000/ (Open using flask)
 * You can select a conference of the player's team, and then choose a position of the player, then select the player's team, and finally click the name of the player to see all the detailed information of this player.
 * You can click the *Go back* button in the footer section to go back to the previous page.
 * You can click the *Home* button in the footer section to go back to the home page.
