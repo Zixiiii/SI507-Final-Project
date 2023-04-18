@@ -24,6 +24,7 @@ The data structure that stores player information is **Tree**
 * Layer 4: Team(string, Team names)
 * Layer 5: Player information(dictionary, storing the information of the players)
 *--------------------------------------------------------------------------------------------------------------------------------------------------------*
+```
 **All players**
 
    **Western Conference**
@@ -55,4 +56,5 @@ The data structure that stores player information is **Tree**
        ...
      **F**
        ...
+```
 *--------------------------------------------------------------------------------------------------------------------------------------------------------*
