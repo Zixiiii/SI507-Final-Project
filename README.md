@@ -24,10 +24,10 @@ The data structure that stores player information is **Tree**
 * Layer 4: Team(string, Team names)
 * Layer 5: Player information(dictionary, storing the information of the players)
 ```
-**All players**
-   **Western Conference**
-     **G**
-       **Grizzlies**
+All players
+   Western Conference
+     G
+       Grizzlies
          {'PLAYER_NAME': 'Desmond Bane', 'HEIGHT': '6-5', 'WEIGHT': 215, 'COLLEGE': 'TCU', 'COUNTRY': 'USA', 'PTS': 21.6, 'REB': 5.0, 'AST': 4.4}
          {'PLAYER_NAME': 'Dillon Brooks', 'HEIGHT': '6-6', 'WEIGHT': 225, 'COLLEGE': 'Oregon', 'COUNTRY': 'Canada', 'PTS': 14.4, 'REB': 3.3, 'AST': 2.6}
          {'PLAYER_NAME': 'Kennedy Chandler', 'HEIGHT': '5-11', 'WEIGHT': 170, 'COLLEGE': 'Tennessee', 'COUNTRY': 'USA', 'PTS': 2.2, 'REB': 1.0, 'AST': 1.7}
@@ -36,7 +36,7 @@ The data structure that stores player information is **Tree**
          {'PLAYER_NAME': 'John Konchar', 'HEIGHT': '6-5', 'WEIGHT': 210, 'COLLEGE': 'Indiana-Purdue Fort Wayne', 'COUNTRY': 'USA', 'PTS': 5.0, 'REB': 4.2, 'AST': 1.3}
          {'PLAYER_NAME': 'Ja Morant', 'HEIGHT': '6-2', 'WEIGHT': 174, 'COLLEGE': 'Murray State', 'COUNTRY': 'USA', 'PTS': 26.4, 'REB': 5.9, 'AST': 8.1}
          {'PLAYER_NAME': 'Vince Williams Jr.', 'HEIGHT': '6-4', 'WEIGHT': 205, 'COLLEGE': 'Virginia Commonwealth', 'COUNTRY': 'USA', 'PTS': 0.9, 'REB': 0.5, 'AST': 0.2}
-      ** Jazz**
+       Jazz
          {'PLAYER_NAME': 'Ochai Agbaji', 'HEIGHT': '6-5', 'WEIGHT': 215, 'COLLEGE': 'Kansas', 'COUNTRY': 'USA', 'PTS': 7.6, 'REB': 2.1, 'AST': 1.0}
          {'PLAYER_NAME': 'Jordan Clarkson', 'HEIGHT': '6-5', 'WEIGHT': 194, 'COLLEGE': 'Missouri', 'COUNTRY': 'USA', 'PTS': 20.8, 'REB': 4.0, 'AST': 4.4}
          {'PLAYER_NAME': 'Kris Dunn', 'HEIGHT': '6-3', 'WEIGHT': 205, 'COLLEGE': 'Providence', 'COUNTRY': 'USA', 'PTS': 12.3, 'REB': 4.1, 'AST': 5.1}
@@ -44,11 +44,11 @@ The data structure that stores player information is **Tree**
          {'PLAYER_NAME': 'Johnny Juzang', 'HEIGHT': '6-6', 'WEIGHT': 209, 'COLLEGE': 'UCLA', 'COUNTRY': 'USA', 'PTS': 4.8, 'REB': 2.1, 'AST': 0.5}
          {'PLAYER_NAME': 'Collin Sexton', 'HEIGHT': '6-2', 'WEIGHT': 190, 'COLLEGE': 'Alabama', 'COUNTRY': 'USA', 'PTS': 14.3, 'REB': 2.2, 'AST': 2.9}
        ...
-     **F**
+     F
        ...
-   **Western Conference**
-     **G**
+   Western Conference
+     G
        ...
-     **F**
+     F
        ...
 ```
