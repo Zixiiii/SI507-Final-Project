@@ -23,16 +23,11 @@ The data structure that stores player information is **Tree**
 * Layer 3: Position(string, Guard or Forward)
 * Layer 4: Team(string, Team names)
 * Layer 5: Player information(dictionary, storing the information of the players)
-*--------------------------------------------------------------------------------------------------------------------------------------------------------*
 ```
 **All players**
-
    **Western Conference**
-   
      **G**
-     
        **Grizzlies**
-       
          {'PLAYER_NAME': 'Desmond Bane', 'HEIGHT': '6-5', 'WEIGHT': 215, 'COLLEGE': 'TCU', 'COUNTRY': 'USA', 'PTS': 21.6, 'REB': 5.0, 'AST': 4.4}
          {'PLAYER_NAME': 'Dillon Brooks', 'HEIGHT': '6-6', 'WEIGHT': 225, 'COLLEGE': 'Oregon', 'COUNTRY': 'Canada', 'PTS': 14.4, 'REB': 3.3, 'AST': 2.6}
          {'PLAYER_NAME': 'Kennedy Chandler', 'HEIGHT': '5-11', 'WEIGHT': 170, 'COLLEGE': 'Tennessee', 'COUNTRY': 'USA', 'PTS': 2.2, 'REB': 1.0, 'AST': 1.7}
@@ -57,4 +52,3 @@ The data structure that stores player information is **Tree**
      **F**
        ...
 ```
-*--------------------------------------------------------------------------------------------------------------------------------------------------------*
