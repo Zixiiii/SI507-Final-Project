@@ -1,0 +1,546 @@
+,PLAYER_LAST_NAME,PLAYER_FIRST_NAME,PERSON_ID,TEAM_CITY,TEAM_NAME,TEAM_ABBREVIATION,POSITION,HEIGHT,WEIGHT,COLLEGE,COUNTRY
+0,Achiuwa,Precious,1630173,Toronto,Raptors,TOR,F,6-8,225,Memphis,Nigeria
+1,Anunoby,O.G.,1628384,Toronto,Raptors,TOR,F,6-7,232,Indiana,United Kingdom
+2,Banton,Dalano,1630625,Toronto,Raptors,TOR,F,6-7,204,Nebraska,Canada
+3,Barnes,Scottie,1630567,Toronto,Raptors,TOR,F,6-8,225,Florida State,USA
+4,Barton,Will,203115,Toronto,Raptors,TOR,G,6-5,181,Memphis,USA
+5,Boucher,Chris,1628449,Toronto,Raptors,TOR,F-C,6-9,200,Oregon,Saint Lucia
+6,Dowtin Jr.,Jeff,1630288,Toronto,Raptors,TOR,G,6-3,177,Rhode Island,USA
+7,Flynn,Malachi,1630201,Toronto,Raptors,TOR,G,6-1,175,San Diego State,USA
+8,Harper Jr.,Ron,1631199,Toronto,Raptors,TOR,F,6-5,245,Rutgers,USA
+9,Koloko,Christian,1631132,Toronto,Raptors,TOR,C,7-0,230,Arizona,Cameroon
+10,Poeltl,Jakob,1627751,Toronto,Raptors,TOR,C,7-1,245,Utah,Austria
+11,Porter Jr.,Otto,203490,Toronto,Raptors,TOR,F,6-8,198,Georgetown,USA
+12,Siakam,Pascal,1627783,Toronto,Raptors,TOR,F,6-8,230,New Mexico State,Cameroon
+13,Trent Jr.,Gary,1629018,Toronto,Raptors,TOR,G-F,6-5,209,Duke,USA
+14,VanVleet,Fred,1627832,Toronto,Raptors,TOR,G,6-0,197,Wichita State,USA
+15,Wieskamp,Joe,1630580,Toronto,Raptors,TOR,G-F,6-6,205,Iowa,USA
+16,Young,Thaddeus,201152,Toronto,Raptors,TOR,F,6-8,235,Georgia Tech,USA
+17,Adams,Steven,203500,Memphis,Grizzlies,MEM,C,6-11,265,Pittsburgh,New Zealand
+18,Aldama,Santi,1630583,Memphis,Grizzlies,MEM,F-C,7-0,215,Loyola-Maryland,Spain
+19,Bane,Desmond,1630217,Memphis,Grizzlies,MEM,G,6-5,215,TCU,USA
+20,Brooks,Dillon,1628415,Memphis,Grizzlies,MEM,G-F,6-6,225,Oregon,Canada
+21,Chandler,Kennedy,1631113,Memphis,Grizzlies,MEM,G,5-11,170,Tennessee,USA
+22,Clarke,Brandon,1629634,Memphis,Grizzlies,MEM,F,6-8,215,Gonzaga,Canada
+23,Jackson Jr.,Jaren,1628991,Memphis,Grizzlies,MEM,F-C,6-10,242,Michigan State,USA
+24,Jones,Tyus,1626145,Memphis,Grizzlies,MEM,G,6-2,196,Duke,USA
+25,Kennard,Luke,1628379,Memphis,Grizzlies,MEM,G,6-5,206,Duke,USA
+26,Konchar,John,1629723,Memphis,Grizzlies,MEM,G,6-5,210,Indiana-Purdue Fort Wayne,USA
+27,LaRavia,Jake,1631222,Memphis,Grizzlies,MEM,F,6-7,235,Wake Forest,USA
+28,Lofton Jr.,Kenneth,1631254,Memphis,Grizzlies,MEM,F,6-6,275,Louisiana Tech,USA
+29,Morant,Ja,1629630,Memphis,Grizzlies,MEM,G,6-2,174,Murray State,USA
+30,Roddy,David,1631223,Memphis,Grizzlies,MEM,F,6-4,255,Colorado State,USA
+31,Tillman,Xavier,1630214,Memphis,Grizzlies,MEM,F,6-7,245,Michigan State,USA
+32,Williams,Ziaire,1630533,Memphis,Grizzlies,MEM,F,6-9,185,Stanford,USA
+33,Williams Jr.,Vince,1631246,Memphis,Grizzlies,MEM,G,6-4,205,Virginia Commonwealth,USA
+34,Adebayo,Bam,1628389,Miami,Heat,MIA,C-F,6-9,255,Kentucky,USA
+35,Butler,Jimmy,202710,Miami,Heat,MIA,F,6-7,230,Marquette,USA
+36,Cain,Jamal,1631288,Miami,Heat,MIA,F,6-6,191,Oakland,USA
+37,Haslem,Udonis,2617,Miami,Heat,MIA,F,6-7,235,Florida,USA
+38,Herro,Tyler,1629639,Miami,Heat,MIA,G,6-5,195,Kentucky,USA
+39,Highsmith,Haywood,1629312,Miami,Heat,MIA,F,6-5,220,Wheeling Jesuit,USA
+40,Jovic,Nikola,1631107,Miami,Heat,MIA,F,6-10,205,                                   ,Serbia
+41,Love,Kevin,201567,Miami,Heat,MIA,F-C,6-8,251,UCLA,USA
+42,Lowry,Kyle,200768,Miami,Heat,MIA,G,6-0,196,Villanova,USA
+43,Martin,Caleb,1628997,Miami,Heat,MIA,F,6-5,205,Nevada,USA
+44,Oladipo,Victor,203506,Miami,Heat,MIA,G,6-3,213,Indiana,USA
+45,Robinson,Duncan,1629130,Miami,Heat,MIA,F,6-7,215,Michigan,USA
+46,Robinson,Orlando,1631115,Miami,Heat,MIA,C,6-10,235,Fresno State,USA
+47,Strus,Max,1629622,Miami,Heat,MIA,G-F,6-5,215,DePaul,USA
+48,Vincent,Gabe,1629216,Miami,Heat,MIA,G,6-2,200,California-Santa Barbara,USA
+49,Yurtseven,Omer,1630209,Miami,Heat,MIA,C,6-11,275,Georgetown,Turkey
+50,Zeller,Cody,203469,Miami,Heat,MIA,F-C,6-11,240,Indiana,USA
+51,Agbaji,Ochai,1630534,Utah,Jazz,UTA,G,6-5,215,Kansas,USA
+52,Azubuike,Udoka,1628962,Utah,Jazz,UTA,C-F,6-11,270,Kansas,Nigeria
+53,Clarkson,Jordan,203903,Utah,Jazz,UTA,G,6-5,194,Missouri,USA
+54,Dunn,Kris,1627739,Utah,Jazz,UTA,G,6-3,205,Providence,USA
+55,Fontecchio,Simone,1631323,Utah,Jazz,UTA,F,6-7,209,Baskonia,Italy
+56,Gay,Rudy,200752,Utah,Jazz,UTA,F-G,6-8,250,Connecticut,USA
+57,Horton-Tucker,Talen,1629659,Utah,Jazz,UTA,G,6-4,234,Iowa State,USA
+58,Jones,Damian,1627745,Utah,Jazz,UTA,C,6-11,245,Vanderbilt,USA
+59,Juzang,Johnny,1630548,Utah,Jazz,UTA,G,6-6,209,UCLA,USA
+60,Kessler,Walker,1631117,Utah,Jazz,UTA,C,7-0,245,Auburn,USA
+61,Markkanen,Lauri,1628374,Utah,Jazz,UTA,F-C,7-0,240,Arizona,Finland
+62,Olynyk,Kelly,203482,Utah,Jazz,UTA,F-C,6-11,240,Gonzaga,Canada
+63,Potter,Micah,1630695,Utah,Jazz,UTA,C,6-8,248,Wisconsin,USA
+64,Sexton,Collin,1629012,Utah,Jazz,UTA,G,6-2,190,Alabama,USA
+65,Toscano-Anderson,Juan,1629308,Utah,Jazz,UTA,F,6-6,209,Marquette,USA
+66,Alexander-Walker,Nickeil,1629638,Minnesota,Timberwolves,MIN,G,6-5,205,Virginia Tech,Canada
+67,Anderson,Kyle,203937,Minnesota,Timberwolves,MIN,F-G,6-9,230,UCLA,USA
+68,Conley,Mike,201144,Minnesota,Timberwolves,MIN,G,6-1,175,Ohio State,USA
+69,Edwards,Anthony,1630162,Minnesota,Timberwolves,MIN,G,6-4,225,Georgia,USA
+70,Garza,Luka,1630568,Minnesota,Timberwolves,MIN,C,6-10,243,Iowa,USA
+71,Gobert,Rudy,203497,Minnesota,Timberwolves,MIN,C,7-1,258,Cholet,France
+72,Knight,Nathan,1630233,Minnesota,Timberwolves,MIN,F-C,6-8,253,William u0026 Mary,USA
+73,McDaniels,Jaden,1630183,Minnesota,Timberwolves,MIN,F,6-9,185,Washington,USA
+74,McLaughlin,Jordan,1629162,Minnesota,Timberwolves,MIN,G,6-0,185,Southern California,USA
+75,Minott,Josh,1631169,Minnesota,Timberwolves,MIN,F,6-8,205,Memphis,USA
+76,Moore Jr.,Wendell,1631111,Minnesota,Timberwolves,MIN,G,6-5,215,Duke,USA
+77,Nowell,Jaylen,1629669,Minnesota,Timberwolves,MIN,G,6-4,201,Washington,USA
+78,Prince,Taurean,1627752,Minnesota,Timberwolves,MIN,F,6-6,218,Baylor,USA
+79,Reid,Naz,1629675,Minnesota,Timberwolves,MIN,C-F,6-9,264,Louisiana State,USA
+80,Rivers,Austin,203085,Minnesota,Timberwolves,MIN,G,6-4,200,Duke,USA
+81,Ryan,Matt,1630346,Minnesota,Timberwolves,MIN,F,6-6,215,Tennessee-Chattanooga,USA
+82,Towns,Karl-Anthony,1626157,Minnesota,Timberwolves,MIN,C-F,7-0,248,Kentucky,USA
+83,Allen,Grayson,1628960,Milwaukee,Bucks,MIL,G,6-4,198,Duke,USA
+84,Antetokounmpo,Giannis,203507,Milwaukee,Bucks,MIL,F,7-0,243,Filathlitikos,Greece
+85,Antetokounmpo,Thanasis,203648,Milwaukee,Bucks,MIL,F,6-7,219,Panathinaikos,Greece
+86,Beauchamp,MarJon,1630699,Milwaukee,Bucks,MIL,F,6-7,199,NBA G League Ignite,USA
+87,Carter,Jevon,1628975,Milwaukee,Bucks,MIL,G,6-1,200,West Virginia,USA
+88,Connaughton,Pat,1626192,Milwaukee,Bucks,MIL,G,6-5,209,Notre Dame,USA
+89,Crowder,Jae,203109,Milwaukee,Bucks,MIL,F,6-6,235,Marquette,USA
+90,Dragic,Goran,201609,Milwaukee,Bucks,MIL,G,6-4,190,Union Olimpija,Slovenia
+91,Green,AJ,1631260,Milwaukee,Bucks,MIL,G,6-5,190,Northern Iowa,USA
+92,Holiday,Jrue,201950,Milwaukee,Bucks,MIL,G,6-5,205,UCLA,USA
+93,Ingles,Joe,204060,Milwaukee,Bucks,MIL,F-G,6-9,220,Maccabi Tel Aviv,Australia
+94,Leonard,Meyers,203086,Milwaukee,Bucks,MIL,F-C,7-0,260,Illinois,USA
+95,Lopez,Brook,201572,Milwaukee,Bucks,MIL,C,7-1,282,Stanford,USA
+96,Matthews,Wesley,202083,Milwaukee,Bucks,MIL,G,6-5,220,Marquette,USA
+97,Middleton,Khris,203114,Milwaukee,Bucks,MIL,F,6-7,222,Texas Au0026M,USA
+98,Portis,Bobby,1626171,Milwaukee,Bucks,MIL,F,6-11,250,Arkansas,USA
+99,Wigginton,Lindell,1629623,Milwaukee,Bucks,MIL,G,6-1,189,Iowa State,Canada
+100,Allen,Jarrett,1628386,Cleveland,Cavaliers,CLE,C,6-9,243,Texas,USA
+101,Diakite,Mamadi,1629603,Cleveland,Cavaliers,CLE,F,6-9,228,Virginia,Guinea
+102,Garland,Darius,1629636,Cleveland,Cavaliers,CLE,G,6-1,192,Vanderbilt,USA
+103,Green,Danny,201980,Cleveland,Cavaliers,CLE,G,6-6,215,North Carolina,USA
+104,LeVert,Caris,1627747,Cleveland,Cavaliers,CLE,G,6-6,205,Michigan,USA
+105,Lopez,Robin,201577,Cleveland,Cavaliers,CLE,C,7-0,281,Stanford,USA
+106,Merrill,Sam,1630241,Cleveland,Cavaliers,CLE,G,6-4,205,Utah State,USA
+107,Mitchell,Donovan,1628378,Cleveland,Cavaliers,CLE,G,6-1,215,Louisville,USA
+108,Mobley,Evan,1630596,Cleveland,Cavaliers,CLE,C,6-11,215,Southern California,USA
+109,Mobley,Isaiah,1630600,Cleveland,Cavaliers,CLE,F,6-8,238,Southern California,USA
+110,Neto,Raul,203526,Cleveland,Cavaliers,CLE,G,6-2,180,Murcia,Brazil
+111,Okoro,Isaac,1630171,Cleveland,Cavaliers,CLE,F-G,6-5,225,Auburn,USA
+112,Osman,Cedi,1626224,Cleveland,Cavaliers,CLE,F,6-7,230,Anadolu Efes,Turkey
+113,Rubio,Ricky,201937,Cleveland,Cavaliers,CLE,G,6-2,190,FC Barcelona,Spain
+114,Stevens,Lamar,1630205,Cleveland,Cavaliers,CLE,F,6-6,230,Penn State,USA
+115,Wade,Dean,1629731,Cleveland,Cavaliers,CLE,F-C,6-9,228,Kansas State,USA
+116,Windler,Dylan,1629685,Cleveland,Cavaliers,CLE,G-F,6-7,196,Belmont,USA
+117,Alvarado,Jose,1630631,New Orleans,Pelicans,NOP,G,6-0,179,Georgia Tech,USA
+118,Daniels,Dyson,1630700,New Orleans,Pelicans,NOP,G,6-7,199,NBA G League Ignite,Australia
+119,Hayes,Jaxson,1629637,New Orleans,Pelicans,NOP,C-F,7-0,220,Texas,USA
+120,Hernangomez,Willy,1626195,New Orleans,Pelicans,NOP,C-F,6-11,250,Cajasol Sevilla,Spain
+121,Ingram,Brandon,1627742,New Orleans,Pelicans,NOP,F,6-8,190,Duke,USA
+122,Jones,Herbert,1630529,New Orleans,Pelicans,NOP,F,6-7,206,Alabama,USA
+123,Lewis Jr.,Kira,1630184,New Orleans,Pelicans,NOP,G,6-1,170,Alabama,USA
+124,Liddell,E.J.,1630604,New Orleans,Pelicans,NOP,F,6-6,240,Ohio State,USA
+125,Marshall,Naji,1630230,New Orleans,Pelicans,NOP,F,6-7,220,Xavier,USA
+126,McCollum,CJ,203468,New Orleans,Pelicans,NOP,G,6-3,190,Lehigh,USA
+127,Murphy III,Trey,1630530,New Orleans,Pelicans,NOP,F,6-8,206,Virginia,USA
+128,Nance Jr.,Larry,1626204,New Orleans,Pelicans,NOP,F-C,6-8,245,Wyoming,USA
+129,Richardson,Josh,1626196,New Orleans,Pelicans,NOP,G,6-6,200,Tennessee,USA
+130,Temple,Garrett,202066,New Orleans,Pelicans,NOP,G-F,6-6,195,Louisiana State,USA
+131,Valanciunas,Jonas,202685,New Orleans,Pelicans,NOP,C,6-11,265,Lietuvos rytas Vilnius,Lithuania
+132,Williamson,Zion,1629627,New Orleans,Pelicans,NOP,F,6-6,284,Duke,USA
+133,Anthony,Cole,1630175,Orlando,Magic,ORL,G,6-3,185,North Carolina,USA
+134,Banchero,Paolo,1631094,Orlando,Magic,ORL,F,6-10,250,Duke,USA
+135,Bitadze,Goga,1629048,Orlando,Magic,ORL,C-F,6-11,250,Mega Basket,Georgia
+136,Bol,Bol,1629626,Orlando,Magic,ORL,C-F,7-2,220,Oregon,Sudan
+137,Carter Jr.,Wendell,1628976,Orlando,Magic,ORL,C-F,6-10,270,Duke,USA
+138,Carter-Williams,Michael,203487,Orlando,Magic,ORL,G,6-5,190,Syracuse,USA
+139,Fultz,Markelle,1628365,Orlando,Magic,ORL,G,6-4,209,Washington,USA
+140,Harris,Gary,203914,Orlando,Magic,ORL,G,6-4,210,Michigan State,USA
+141,Harris,Kevon,1630284,Orlando,Magic,ORL,G,6-6,216,Stephen F. Austin,USA
+142,Houstan,Caleb,1631216,Orlando,Magic,ORL,G,6-8,205,Michigan,Canada
+143,Isaac,Jonathan,1628371,Orlando,Magic,ORL,F,6-10,230,Florida State,USA
+144,Okeke,Chuma,1629643,Orlando,Magic,ORL,F,6-8,229,Auburn,USA
+145,Schofield,Admiral,1629678,Orlando,Magic,ORL,F,6-5,241,Tennessee,United Kingdom
+146,Scrubb,Jay,1630206,Orlando,Magic,ORL,G,6-5,220,John A. Logan,USA
+147,Suggs,Jalen,1630591,Orlando,Magic,ORL,G,6-5,205,Gonzaga,USA
+148,Wagner,Franz,1630532,Orlando,Magic,ORL,F,6-10,220,Michigan,Germany
+149,Wagner,Moritz,1629021,Orlando,Magic,ORL,F-C,6-11,245,Michigan,Germany
+150,Arcidiacono,Ryan,1627853,,,,G,6-3,195,Villanova,USA
+151,Bolmaro,Leandro,1630195,,,,F,6-6,200,FC Barcelona,Argentina
+152,Bouyea,Jamaree,1631123,,,,G,6-2,180,San Francisco,USA
+153,Bradley,Tony,1628396,,,,C-F,6-11,248,North Carolina,USA
+154,Brantley,Jarrell,1629714,,,,F,6-5,250,College of Charleston,USA
+155,Brown,Moses,1629650,,,,C,7-2,245,UCLA,USA
+156,Brown,Sterling,1628425,,,,G-F,6-5,219,Southern Methodist,USA
+157,Brown III,Greg,1630535,,,,F,6-7,206,Texas,USA
+158,Burton,Deonte,1629126,,,,G-F,6-4,240,Iowa State,USA
+159,Campazzo,Facundo,1630267,,,,G,5-10,195,Murcia,Argentina
+160,Carey Jr.,Vernon,1630176,,,,C,6-10,270,Duke,USA
+161,Culver,Jarrett,1629633,,,,G-F,6-6,195,Texas Tech,USA
+162,Dorsey,Tyler,1628416,,,,G,6-4,180,Oregon,USA
+163,Dotson,Devon,1629653,,,,G,6-1,185,Kansas,USA
+164,Forbes,Bryn,1627854,,,,G,6-2,205,Michigan State,USA
+165,Foster Jr.,Michael,1630701,,,,F,6-8,250,NBA G League Ignite,USA
+166,Hall,Jordan,1631160,,,,G,6-7,215,St. Joseph's (PA),USA
+167,Hernangomez,Juancho,1627823,,,,F,6-9,214,Estudiantes,Spain
+168,Hill,Malcolm,1630792,,,,F,6-6,220,Illinois,USA
+169,Ibaka,Serge,201586,,,,F,6-11,235,                                   ,Democratic Republic of the Congo
+170,Jackson,Frank,1628402,,,,G,6-3,205,Duke,USA
+171,Jackson,Justin,1628382,,,,F,6-8,220,North Carolina,USA
+172,Johnson,Alize,1628993,,,,F,6-8,212,Missouri State,USA
+173,Johnson,Stanley,1626169,,,,F-G,6-6,242,Arizona,USA
+174,Key,Braxton,1630296,,,,F,6-8,225,Virginia,USA
+175,Moneke,Chima,1631320,,,,F,6-5,223,Cal-Davis,Nigeria
+176,Noel,Nerlens,203457,,,,C-F,6-10,220,Kentucky,USA
+177,Okpala,KZ,1629644,,,,F-G,6-8,215,Stanford,USA
+178,Primo,Joshua,1630563,,,,G,6-6,189,Alabama,Canada
+179,Queen,Trevelin,1630243,,,,G,6-6,190,New Mexico State,USA
+180,Roby,Isaiah,1629676,,,,F,6-8,230,Nebraska,USA
+181,Samanic,Luka,1629677,,,,F,6-10,227,                                   ,Croatia
+182,Schakel,Jordan,1630648,,,,G,6-6,200,San Diego State,USA
+183,Seabron,Dereon,1631220,,,,G,6-5,180,North Carolina State,USA
+184,Silva,Chris,1629735,,,,F,6-8,234,South Carolina,Gabon
+185,Umude,Stanley,1630649,,,,G,6-6,210,Arkansas,USA
+186,Vonleh,Noah,203943,,,,F,6-10,257,Indiana,USA
+187,Walker,Kemba,202689,,,,G,6-0,184,Connecticut,USA
+188,Wall,John,202322,,,,G,6-3,210,Kentucky,USA
+189,Williams,Alondes,1631214,,,,G,6-4,210,Wake Forest,USA
+190,Augustin,D.J.,201571,Houston,Rockets,HOU,G,5-11,183,Texas-Austin,USA
+191,Christopher,Josh,1630528,Houston,Rockets,HOU,G,6-4,215,Arizona State,USA
+192,Days,Darius,1630620,Houston,Rockets,HOU,F,6-7,245,Louisiana State,USA
+193,Eason,Tari,1631106,Houston,Rockets,HOU,F,6-8,215,Louisiana State,USA
+194,Garuba,Usman,1630586,Houston,Rockets,HOU,F,6-8,229,Real Madrid,Spain
+195,Green,Jalen,1630224,Houston,Rockets,HOU,G,6-4,186,NBA G League Ignite,USA
+196,Hudgins,Trevor,1631309,Houston,Rockets,HOU,G,6-0,180,Northwest Missouri State,USA
+197,Kaminsky,Frank,1626163,Houston,Rockets,HOU,F-C,7-0,240,Wisconsin,USA
+198,Marjanovic,Boban,1626246,Houston,Rockets,HOU,C,7-4,290,Crvena zvezda,Serbia
+199,Martin Jr.,Kenyon,1630231,Houston,Rockets,HOU,F,6-7,215,IMG Academy (FL),USA
+200,Nix,Daishen,1630227,Houston,Rockets,HOU,G,6-4,226,NBA G League Ignite,USA
+201,Porter Jr.,Kevin,1629645,Houston,Rockets,HOU,G-F,6-4,203,Southern California,USA
+202,Sengun,Alperen,1630578,Houston,Rockets,HOU,C,6-11,243,Besiktas,Turkey
+203,Smith Jr.,Jabari,1631095,Houston,Rockets,HOU,F,6-11,220,Auburn,USA
+204,Tate,Jae'Sean,1630256,Houston,Rockets,HOU,F,6-5,230,Ohio State,USA
+205,Washington Jr.,TyTy,1631102,Houston,Rockets,HOU,G,6-3,195,Kentucky,USA
+206,Avdija,Deni,1630166,Washington,Wizards,WAS,F,6-9,210,Maccabi Tel Aviv,Israel
+207,Beal,Bradley,203078,Washington,Wizards,WAS,G,6-4,207,Florida,USA
+208,Cooks,Xavier,1641645,Washington,Wizards,WAS,F,6-8,183,Winthrop,Australia
+209,Davis,Johnny,1631098,Washington,Wizards,WAS,G,6-4,195,Wisconsin,USA
+210,Gafford,Daniel,1629655,Washington,Wizards,WAS,F-C,6-10,234,Arkansas,USA
+211,Gibson,Taj,201959,Washington,Wizards,WAS,F,6-9,232,Southern California,USA
+212,Gill,Anthony,1630264,Washington,Wizards,WAS,F,6-8,230,Virginia,USA
+213,Goodwin,Jordan,1630692,Washington,Wizards,WAS,G,6-3,200,St. Louis,USA
+214,Huff,Jay,1630643,Washington,Wizards,WAS,C,7-1,240,Virginia,USA
+215,Jackson,Quenton,1631245,Washington,Wizards,WAS,G,6-5,173,Texas Au0026M,USA
+216,Kispert,Corey,1630557,Washington,Wizards,WAS,F,6-6,224,Gonzaga,USA
+217,Kuzma,Kyle,1628398,Washington,Wizards,WAS,F,6-9,221,Utah,USA
+218,Morris,Monte,1628420,Washington,Wizards,WAS,G,6-2,183,Iowa State,USA
+219,Nunn,Kendrick,1629134,Washington,Wizards,WAS,G,6-3,190,Oakland,USA
+220,Porzingis,Kristaps,204001,Washington,Wizards,WAS,F-C,7-3,240,Cajasol Sevilla,Latvia
+221,Todd,Isaiah,1630225,Washington,Wizards,WAS,F,6-9,219,NBA G League Ignite,USA
+222,Wright,Delon,1626153,Washington,Wizards,WAS,G,6-5,185,Utah,USA
+223,Ayton,Deandre,1629028,Phoenix,Suns,PHX,C,7-0,250,Arizona,Bahamas
+224,Bazley,Darius,1629647,Phoenix,Suns,PHX,F,6-9,216,Princeton HS (OH),USA
+225,Biyombo,Bismack,202687,Phoenix,Suns,PHX,C,6-8,255,Baloncesto Fuenlabrada,DRC
+226,Booker,Devin,1626164,Phoenix,Suns,PHX,G,6-5,206,Kentucky,USA
+227,Craig,Torrey,1628470,Phoenix,Suns,PHX,F,6-7,221,South Carolina Upstate,USA
+228,Durant,Kevin,201142,Phoenix,Suns,PHX,F,6-10,240,Texas,USA
+229,Landale,Jock,1629111,Phoenix,Suns,PHX,C,6-11,255,St. Mary's,Australia
+230,Lee,Damion,1627814,Phoenix,Suns,PHX,G-F,6-5,210,Drexel,USA
+231,Lee,Saben,1630240,Phoenix,Suns,PHX,G,6-2,183,Vanderbilt,USA
+232,Okogie,Josh,1629006,Phoenix,Suns,PHX,G,6-4,213,Georgia Tech,Nigeria
+233,Paul,Chris,101108,Phoenix,Suns,PHX,G,6-0,175,Wake Forest,USA
+234,Payne,Cameron,1626166,Phoenix,Suns,PHX,G,6-1,183,Murray State,USA
+235,Ross,Terrence,203082,Phoenix,Suns,PHX,G-F,6-7,206,Washington,USA
+236,Shamet,Landry,1629013,Phoenix,Suns,PHX,G,6-4,190,Wichita State,USA
+237,Wainright,Ish,1630688,Phoenix,Suns,PHX,F,6-5,250,Baylor,USA
+238,Warren,T.J.,203933,Phoenix,Suns,PHX,F,6-8,220,North Carolina State,USA
+239,Badji,Ibou,1630641,Portland,Trail Blazers,POR,C,7-1,240,FC Barcelona,Senegal
+240,Butler Jr.,John,1631219,Portland,Trail Blazers,POR,F,7-0,190,Florida State,USA
+241,Eubanks,Drew,1629234,Portland,Trail Blazers,POR,F-C,6-10,245,Oregon State,USA
+242,Grant,Jerami,203924,Portland,Trail Blazers,POR,F,6-8,210,Syracuse,USA
+243,Harrison,Shaquille,1627885,Portland,Trail Blazers,POR,G,6-4,195,Tulsa,USA
+244,Johnson,Keon,1630553,Portland,Trail Blazers,POR,G,6-3,185,Tennessee,USA
+245,Knox II,Kevin,1628995,Portland,Trail Blazers,POR,F,6-7,215,Kentucky,USA
+246,Lillard,Damian,203081,Portland,Trail Blazers,POR,G,6-2,195,Weber State,USA
+247,Little,Nassir,1629642,Portland,Trail Blazers,POR,F-G,6-5,220,North Carolina,USA
+248,Mays,Skylar,1630219,Portland,Trail Blazers,POR,G,6-4,205,Louisiana State,USA
+249,Minaya,Justin,1631303,Portland,Trail Blazers,POR,F,6-7,210,Providence,USA
+250,Nurkic,Jusuf,203994,Portland,Trail Blazers,POR,C,7-0,290,Cedevita,Bosnia and Herzegovina
+251,Reddish,Cam,1629629,Portland,Trail Blazers,POR,F-G,6-7,217,Duke,USA
+252,Sharpe,Shaedon,1631101,Portland,Trail Blazers,POR,G,6-5,200,Kentucky,Canada
+253,Simons,Anfernee,1629014,Portland,Trail Blazers,POR,G,6-3,181,Edgewater HS (FL),USA
+254,Thybulle,Matisse,1629680,Portland,Trail Blazers,POR,G-F,6-5,201,Washington,USA
+255,Walker,Jabari,1631133,Portland,Trail Blazers,POR,F,6-7,200,Colorado,USA
+256,Watford,Trendon,1630570,Portland,Trail Blazers,POR,F,6-8,237,Louisiana State,USA
+257,Williams,Jeenathan,1631466,Portland,Trail Blazers,POR,G,6-5,205,Buffalo,USA
+258,Winslow,Justise,1626159,Portland,Trail Blazers,POR,F-G,6-6,222,Duke,USA
+259,Bagley III,Marvin,1628963,Detroit,Pistons,DET,F,6-10,235,Duke,USA
+260,Boeheim,Buddy,1631205,Detroit,Pistons,DET,F,6-6,205,Syracuse,USA
+261,Bogdanovic,Bojan,202711,Detroit,Pistons,DET,F,6-7,226,Fenerbahce,Croatia
+262,Burks,Alec,202692,Detroit,Pistons,DET,G,6-6,214,Colorado,USA
+263,Cunningham,Cade,1630595,Detroit,Pistons,DET,G,6-7,220,Oklahoma State,USA
+264,Diallo,Hamidou,1628977,Detroit,Pistons,DET,G,6-5,202,Kentucky,USA
+265,Duren,Jalen,1631105,Detroit,Pistons,DET,C,6-11,250,Memphis,USA
+266,Hampton,R.J.,1630181,Detroit,Pistons,DET,G,6-4,175,New Zealand Breakers,USA
+267,Hayes,Killian,1630165,Detroit,Pistons,DET,G,6-5,195,Ratiopharm Ulm,France
+268,Ivey,Jaden,1631093,Detroit,Pistons,DET,G,6-4,195,Purdue,USA
+269,Joseph,Cory,202709,Detroit,Pistons,DET,G,6-3,200,Texas,Canada
+270,Livers,Isaiah,1630587,Detroit,Pistons,DET,F,6-6,232,Michigan,USA
+271,McGruder,Rodney,203585,Detroit,Pistons,DET,G,6-4,205,Kansas State,USA
+272,Omoruyi,Eugene,1630647,Detroit,Pistons,DET,F,6-6,235,Oregon,Nigeria
+273,Rhoden,Jared,1631197,Detroit,Pistons,DET,G,6-6,210,Seton Hall,USA
+274,Stewart,Isaiah,1630191,Detroit,Pistons,DET,F-C,6-8,250,Washington,USA
+275,Wiseman,James,1630164,Detroit,Pistons,DET,C,7-0,240,Memphis,USA
+276,Baldwin Jr.,Patrick,1631116,Golden State,Warriors,GSW,F,6-9,220,Wisconsin-Milwaukee,USA
+277,Curry,Stephen,201939,Golden State,Warriors,GSW,G,6-2,185,Davidson,USA
+278,DiVincenzo,Donte,1628978,Golden State,Warriors,GSW,G,6-4,203,Villanova,USA
+279,Green,Draymond,203110,Golden State,Warriors,GSW,F,6-6,230,Michigan State,USA
+280,Green,JaMychal,203210,Golden State,Warriors,GSW,F-C,6-9,227,Alabama,USA
+281,Iguodala,Andre,2738,Golden State,Warriors,GSW,G-F,6-6,215,Arizona,USA
+282,Jerome,Ty,1629660,Golden State,Warriors,GSW,G-F,6-5,195,Virginia,USA
+283,Kuminga,Jonathan,1630228,Golden State,Warriors,GSW,F,6-7,225,NBA G League Ignite,DRC
+284,Lamb,Anthony,1630237,Golden State,Warriors,GSW,F,6-6,227,Vermont,USA
+285,Looney,Kevon,1626172,Golden State,Warriors,GSW,F,6-9,222,UCLA,USA
+286,Moody,Moses,1630541,Golden State,Warriors,GSW,G,6-5,211,Arkansas,USA
+287,Payton II,Gary,1627780,Golden State,Warriors,GSW,G,6-2,195,Oregon State,USA
+288,Poole,Jordan,1629673,Golden State,Warriors,GSW,G,6-4,194,Michigan,USA
+289,Quinones,Lester,1631311,Golden State,Warriors,GSW,G,6-4,208,Memphis,USA
+290,Rollins,Ryan,1631157,Golden State,Warriors,GSW,G,6-3,180,Toledo,USA
+291,Thompson,Klay,202691,Golden State,Warriors,GSW,G,6-6,220,Washington State,USA
+292,Wiggins,Andrew,203952,Golden State,Warriors,GSW,F,6-7,197,Kansas,Canada
+293,Ball,LaMelo,1630163,Charlotte,Hornets,CHA,G,6-7,180,Illawarra,USA
+294,Bouknight,James,1630547,Charlotte,Hornets,CHA,G,6-4,190,Connecticut,USA
+295,Hayward,Gordon,202330,Charlotte,Hornets,CHA,F,6-7,225,Butler,USA
+296,Jones,Kai,1630539,Charlotte,Hornets,CHA,C-F,6-11,221,Texas,Bahamas
+297,Maledon,Theo,1630177,Charlotte,Hornets,CHA,G,6-5,175,Asvel,France
+298,Martin,Cody,1628998,Charlotte,Hornets,CHA,F,6-6,205,Nevada,USA
+299,McGowens,Bryce,1631121,Charlotte,Hornets,CHA,G,6-6,175,Nebraska,USA
+300,Mykhailiuk,Svi,1629004,Charlotte,Hornets,CHA,G-F,6-7,205,Kansas,Ukraine
+301,Oubre Jr.,Kelly,1626162,Charlotte,Hornets,CHA,F-G,6-6,203,Kansas,USA
+302,Richards,Nick,1630208,Charlotte,Hornets,CHA,C,7-0,245,Kentucky,Jamaica
+303,Rozier,Terry,1626179,Charlotte,Hornets,CHA,G,6-1,190,Louisville,USA
+304,Simmons,Kobi,1628424,Charlotte,Hornets,CHA,G,6-5,180,Arizona,USA
+305,Smith Jr.,Dennis,1628372,Charlotte,Hornets,CHA,G,6-2,205,North Carolina State,USA
+306,Sneed,Xavier,1630270,Charlotte,Hornets,CHA,F,6-5,215,Kansas State,USA
+307,Thor,JT,1630550,Charlotte,Hornets,CHA,F,6-9,203,Auburn,USA
+308,Washington,P.J.,1629023,Charlotte,Hornets,CHA,F,6-7,230,Kentucky,USA
+309,Williams,Mark,1631109,Charlotte,Hornets,CHA,C,7-0,240,Duke,USA
+310,Ball,Lonzo,1628366,Chicago,Bulls,CHI,G,6-6,190,UCLA,USA
+311,Beverley,Patrick,201976,Chicago,Bulls,CHI,G,6-2,180,Arkansas,USA
+312,Caruso,Alex,1627936,Chicago,Bulls,CHI,G,6-5,186,Texas Au0026M,USA
+313,DeRozan,DeMar,201942,Chicago,Bulls,CHI,G-F,6-6,220,Southern California,USA
+314,Dosunmu,Ayo,1630245,Chicago,Bulls,CHI,G,6-5,200,Illinois,USA
+315,Drummond,Andre,203083,Chicago,Bulls,CHI,C,6-11,279,Connecticut,USA
+316,Green,Javonte,1629750,Chicago,Bulls,CHI,G,6-5,205,Radford,USA
+317,Jones,Carlik,1630637,Chicago,Bulls,CHI,G,6-0,174,Louisville,USA
+318,Jones Jr.,Derrick,1627884,Chicago,Bulls,CHI,F,6-6,210,UNLV,USA
+319,LaVine,Zach,203897,Chicago,Bulls,CHI,G,6-5,200,UCLA,USA
+320,Lewis,Justin,1631171,Chicago,Bulls,CHI,F,6-7,245,Marquette,USA
+321,Simonovic,Marko,1630250,Chicago,Bulls,CHI,C,7-0,220,Mega Basket,Montenegro
+322,Taylor,Terry,1630678,Chicago,Bulls,CHI,F,6-4,230,Austin Peay,USA
+323,Terry,Dalen,1631207,Chicago,Bulls,CHI,F,6-7,195,Arizona,USA
+324,Vucevic,Nikola,202696,Chicago,Bulls,CHI,C,6-10,260,Southern California,Montenegro
+325,White,Coby,1629632,Chicago,Bulls,CHI,G,6-5,195,North Carolina,USA
+326,Williams,Patrick,1630172,Chicago,Bulls,CHI,F,6-7,215,Florida State,USA
+327,Bamba,Mo,1628964,Los Angeles,Lakers,LAL,C,7-0,231,Texas,USA
+328,Beasley,Malik,1627736,Los Angeles,Lakers,LAL,G,6-4,187,Florida State,USA
+329,Brown Jr.,Troy,1628972,Los Angeles,Lakers,LAL,G-F,6-7,215,Oregon,USA
+330,Christie,Max,1631108,Los Angeles,Lakers,LAL,G,6-5,190,Michigan State,USA
+331,Davis,Anthony,203076,Los Angeles,Lakers,LAL,F-C,6-10,253,Kentucky,USA
+332,Gabriel,Wenyen,1629117,Los Angeles,Lakers,LAL,F,6-9,205,Kentucky,South Sudan
+333,Hachimura,Rui,1629060,Los Angeles,Lakers,LAL,F,6-8,230,Gonzaga,Japan
+334,James,LeBron,2544,Los Angeles,Lakers,LAL,F,6-9,250,St. Vincent-St. Mary HS (OH),USA
+335,Pippen Jr.,Scotty,1630590,Los Angeles,Lakers,LAL,G,6-1,170,Vanderbilt,USA
+336,Reaves,Austin,1630559,Los Angeles,Lakers,LAL,G,6-5,197,Oklahoma,USA
+337,Reed,Davon,1628432,Los Angeles,Lakers,LAL,G,6-5,206,Miami,USA
+338,Russell,D'Angelo,1626156,Los Angeles,Lakers,LAL,G,6-4,193,Ohio State,USA
+339,Schroder,Dennis,203471,Los Angeles,Lakers,LAL,G,6-1,172,Braunschweig,Germany
+340,Swider,Cole,1631306,Los Angeles,Lakers,LAL,F,6-9,220,Syracuse,USA
+341,Vanderbilt,Jarred,1629020,Los Angeles,Lakers,LAL,F,6-8,214,Kentucky,USA
+342,Walker IV,Lonnie,1629022,Los Angeles,Lakers,LAL,G-F,6-4,204,Miami,USA
+343,Barlow,Dominick,1631230,San Antonio,Spurs,SAS,F,6-9,215,                                   ,USA
+344,Bassey,Charles,1629646,San Antonio,Spurs,SAS,C-F,6-9,230,Western Kentucky,Nigeria
+345,Bates-Diop,Keita,1628966,San Antonio,Spurs,SAS,F,6-8,229,Ohio State,USA
+346,Birch,Khem,203920,San Antonio,Spurs,SAS,C,6-8,233,UNLV,Canada
+347,Branham,Malaki,1631103,San Antonio,Spurs,SAS,F,6-4,180,Ohio State,USA
+348,Champagnie,Julian,1630577,San Antonio,Spurs,SAS,F,6-7,217,St. John's,USA
+349,Collins,Zach,1628380,San Antonio,Spurs,SAS,F-C,6-11,250,Gonzaga,USA
+350,Dieng,Gorgui,203476,San Antonio,Spurs,SAS,C,6-10,248,Louisville,Senegal
+351,Graham,Devonte',1628984,San Antonio,Spurs,SAS,G,6-1,195,Kansas,USA
+352,Johnson,Keldon,1629640,San Antonio,Spurs,SAS,F-G,6-5,220,Kentucky,USA
+353,Jones,Tre,1630200,San Antonio,Spurs,SAS,G,6-1,185,Duke,USA
+354,Langford,Romeo,1629641,San Antonio,Spurs,SAS,G-F,6-5,216,Indiana,USA
+355,Mamukelashvili,Sandro,1630572,San Antonio,Spurs,SAS,F-C,6-10,240,Seton Hall,Georgia
+356,McDermott,Doug,203926,San Antonio,Spurs,SAS,F,6-6,225,Creighton,USA
+357,Sochan,Jeremy,1631110,San Antonio,Spurs,SAS,F,6-8,230,Baylor,Poland
+358,Vassell,Devin,1630170,San Antonio,Spurs,SAS,G-F,6-5,200,Florida State,USA
+359,Wesley,Blake,1631104,San Antonio,Spurs,SAS,G,6-4,185,Notre Dame,USA
+360,Barnes,Harrison,203084,Sacramento,Kings,SAC,F,6-8,225,North Carolina,USA
+361,Davis,Terence,1629056,Sacramento,Kings,SAC,G,6-4,201,Mississippi,USA
+362,Dellavedova,Matthew,203521,Sacramento,Kings,SAC,G,6-3,200,St. Mary's,Australia
+363,Dozier,PJ,1628408,Sacramento,Kings,SAC,G-F,6-6,205,South Carolina,USA
+364,Edwards,Kessler,1630556,Sacramento,Kings,SAC,F,6-7,203,Pepperdine,USA
+365,Ellis,Keon,1631165,Sacramento,Kings,SAC,G,6-3,175,Alabama,USA
+366,Fox,De'Aaron,1628368,Sacramento,Kings,SAC,G,6-3,185,Kentucky,USA
+367,Holmes,Richaun,1626158,Sacramento,Kings,SAC,F,6-8,235,Bowling Green,USA
+368,Huerter,Kevin,1628989,Sacramento,Kings,SAC,G-F,6-7,198,Maryland,USA
+369,Len,Alex,203458,Sacramento,Kings,SAC,C,7-2,250,Maryland,Ukraine
+370,Lyles,Trey,1626168,Sacramento,Kings,SAC,F,6-9,234,Kentucky,Canada
+371,Metu,Chimezie,1629002,Sacramento,Kings,SAC,F-C,6-9,225,Southern California,USA
+372,Mitchell,Davion,1630558,Sacramento,Kings,SAC,G,6-0,202,Baylor,USA
+373,Monk,Malik,1628370,Sacramento,Kings,SAC,G,6-3,200,Kentucky,USA
+374,Murray,Keegan,1631099,Sacramento,Kings,SAC,F,6-8,225,Iowa,USA
+375,Queta,Neemias,1629674,Sacramento,Kings,SAC,C,7-0,248,Utah State,Portugal
+376,Sabonis,Domantas,1627734,Sacramento,Kings,SAC,F-C,7-1,240,Gonzaga,Lithuania
+377,Barrett,RJ,1629628,New York,Knicks,NYK,F-G,6-6,214,Duke,Canada
+378,Brunson,Jalen,1628973,New York,Knicks,NYK,G,6-2,190,Villanova,USA
+379,Fournier,Evan,203095,New York,Knicks,NYK,G-F,6-6,205,Poitiers Basket 86,France
+380,Grimes,Quentin,1629656,New York,Knicks,NYK,G,6-5,210,Houston,USA
+381,Hart,Josh,1628404,New York,Knicks,NYK,G,6-4,215,Villanova,USA
+382,Hartenstein,Isaiah,1628392,New York,Knicks,NYK,C-F,7-0,250,Zalgiris,Germany
+383,Jeffries,DaQuan,1629610,New York,Knicks,NYK,G-F,6-5,222,Tulsa,USA
+384,Keels,Trevor,1631211,New York,Knicks,NYK,G,6-4,221,Duke,USA
+385,McBride,Miles,1630540,New York,Knicks,NYK,G,6-2,195,West Virginia,USA
+386,Quickley,Immanuel,1630193,New York,Knicks,NYK,G,6-2,190,Kentucky,USA
+387,Randle,Julius,203944,New York,Knicks,NYK,F-C,6-8,250,Kentucky,USA
+388,Robinson,Mitchell,1629011,New York,Knicks,NYK,C-F,7-0,240,Western Kentucky,USA
+389,Rose,Derrick,201565,New York,Knicks,NYK,G,6-3,200,Memphis,USA
+390,Sims,Jericho,1630579,New York,Knicks,NYK,C,6-10,250,Texas,USA
+391,Toppin,Obi,1630167,New York,Knicks,NYK,F,6-9,220,Dayton,USA
+392,Washington Jr.,Duane,1630613,New York,Knicks,NYK,G,6-2,197,Ohio State,Germany
+393,Batum,Nicolas,201587,LA,Clippers,LAC,G-F,6-8,230,Le Mans,France
+394,Boston Jr.,Brandon,1630527,LA,Clippers,LAC,G,6-6,188,Kentucky,USA
+395,Coffey,Amir,1629599,LA,Clippers,LAC,G-F,6-7,210,Minnesota,USA
+396,Covington,Robert,203496,LA,Clippers,LAC,F,6-7,209,Tennessee State,USA
+397,Diabate,Moussa,1631217,LA,Clippers,LAC,F,6-10,210,Michigan,France
+398,George,Paul,202331,LA,Clippers,LAC,F,6-8,220,Fresno State,USA
+399,Gordon,Eric,201569,LA,Clippers,LAC,G,6-3,215,Indiana,USA
+400,Hyland,Bones,1630538,LA,Clippers,LAC,G,6-2,169,Virginia Commonwealth,USA
+401,Leonard,Kawhi,202695,LA,Clippers,LAC,F,6-7,225,San Diego State,USA
+402,Mann,Terance,1629611,LA,Clippers,LAC,G-F,6-5,215,Florida State,USA
+403,Moon,Xavier,1629875,LA,Clippers,LAC,G,6-0,165,Morehead State,USA
+404,Morris Sr.,Marcus,202694,LA,Clippers,LAC,F,6-8,218,Kansas,USA
+405,Plumlee,Mason,203486,LA,Clippers,LAC,F-C,7-0,254,Duke,USA
+406,Powell,Norman,1626181,LA,Clippers,LAC,G,6-4,215,UCLA,USA
+407,Preston,Jason,1630554,LA,Clippers,LAC,G,6-3,181,Ohio,USA
+408,Westbrook,Russell,201566,LA,Clippers,LAC,G,6-3,200,UCLA,USA
+409,Zubac,Ivica,1627826,LA,Clippers,LAC,C,7-0,240,Mega Basket,Croatia
+410,Bertans,Davis,202722,Dallas,Mavericks,DAL,F,6-10,225,Baskonia,Latvia
+411,Bullock,Reggie,203493,Dallas,Mavericks,DAL,G-F,6-6,205,North Carolina,USA
+412,Doncic,Luka,1629029,Dallas,Mavericks,DAL,F-G,6-7,230,Real Madrid,Slovenia
+413,Green,Josh,1630182,Dallas,Mavericks,DAL,G,6-7,200,Arizona,Australia
+414,Hardaway Jr.,Tim,203501,Dallas,Mavericks,DAL,G-F,6-5,205,Michigan,USA
+415,Hardy,Jaden,1630702,Dallas,Mavericks,DAL,G,6-3,198,NBA G League Ignite,USA
+416,Holiday,Justin,203200,Dallas,Mavericks,DAL,F-G,6-6,180,Washington,USA
+417,Irving,Kyrie,202681,Dallas,Mavericks,DAL,G,6-2,195,Duke,Australia
+418,Kleber,Maxi,1628467,Dallas,Mavericks,DAL,F,6-10,240,Bayern Munich,Germany
+419,Lawson,A.J.,1630639,Dallas,Mavericks,DAL,G,6-6,179,South Carolina,Canada
+420,McGee,JaVale,201580,Dallas,Mavericks,DAL,C-F,7-0,270,Nevada,USA
+421,Morris,Markieff,202693,Dallas,Mavericks,DAL,F,6-9,245,Kansas,USA
+422,Ntilikina,Frank,1628373,Dallas,Mavericks,DAL,G,6-4,200,Strasbourg IG,France
+423,Pinson,Theo,1629033,Dallas,Mavericks,DAL,G-F,6-7,212,North Carolina,USA
+424,Powell,Dwight,203939,Dallas,Mavericks,DAL,F-C,6-10,240,Stanford,Canada
+425,Wood,Christian,1626174,Dallas,Mavericks,DAL,F,6-9,214,UNLV,USA
+426,Wright IV,McKinley,1630593,Dallas,Mavericks,DAL,G,5-11,192,Colorado,USA
+427,Bey,Saddiq,1630180,Atlanta,Hawks,ATL,F,6-7,215,Villanova,USA
+428,Bogdanovic,Bogdan,203992,Atlanta,Hawks,ATL,G,6-5,225,Fenerbahce,Serbia
+429,Capela,Clint,203991,Atlanta,Hawks,ATL,C,6-10,256,Elan Chalon,Switzerland
+430,Collins,John,1628381,Atlanta,Hawks,ATL,F-C,6-9,226,Wake Forest,USA
+431,Fernando,Bruno,1628981,Atlanta,Hawks,ATL,F-C,6-10,240,Maryland,Angola
+432,Forrest,Trent,1630235,Atlanta,Hawks,ATL,G,6-4,210,Florida State,USA
+433,Griffin,AJ,1631100,Atlanta,Hawks,ATL,F,6-6,220,Duke,USA
+434,Holiday,Aaron,1628988,Atlanta,Hawks,ATL,G,6-0,185,UCLA,USA
+435,Hunter,De'Andre,1629631,Atlanta,Hawks,ATL,F-G,6-8,221,Virginia,USA
+436,Johnson,Jalen,1630552,Atlanta,Hawks,ATL,F,6-8,219,Duke,USA
+437,Krejci,Vit,1630249,Atlanta,Hawks,ATL,G,6-8,195,Zaragoza,Czech Republic
+438,Martin,Tyrese,1631213,Atlanta,Hawks,ATL,G,6-6,215,Connecticut,USA
+439,Mathews,Garrison,1629726,Atlanta,Hawks,ATL,G,6-6,215,Lipscomb,USA
+440,Murray,Dejounte,1627749,Atlanta,Hawks,ATL,G,6-5,180,Washington,USA
+441,Okongwu,Onyeka,1630168,Atlanta,Hawks,ATL,F-C,6-9,240,Southern California,USA
+442,Williams,Donovan,1631495,Atlanta,Hawks,ATL,G,6-6,190,UNLV,USA
+443,Young,Trae,1629027,Atlanta,Hawks,ATL,G,6-1,164,Oklahoma,USA
+444,Braun,Christian,1631128,Denver,Nuggets,DEN,G,6-6,220,Kansas,USA
+445,Brown,Bruce,1628971,Denver,Nuggets,DEN,G-F,6-4,202,Miami,USA
+446,Bryant,Thomas,1628418,Denver,Nuggets,DEN,C-F,6-10,248,Indiana,USA
+447,Caldwell-Pope,Kentavious,203484,Denver,Nuggets,DEN,G,6-5,204,Georgia,USA
+448,Cancar,Vlatko,1628427,Denver,Nuggets,DEN,F,6-8,236,San Pablo Burgos,Slovenia
+449,Gillespie,Collin,1631221,Denver,Nuggets,DEN,G,6-1,195,Villanova,USA
+450,Gordon,Aaron,203932,Denver,Nuggets,DEN,F,6-8,235,Arizona,USA
+451,Green,Jeff,201145,Denver,Nuggets,DEN,F,6-8,235,Georgetown,USA
+452,Jackson,Reggie,202704,Denver,Nuggets,DEN,G,6-2,208,Boston College,USA
+453,Jokic,Nikola,203999,Denver,Nuggets,DEN,C,6-11,284,Mega Basket,Serbia
+454,Jordan,DeAndre,201599,Denver,Nuggets,DEN,C,6-11,265,Texas Au0026M,USA
+455,Murray,Jamal,1627750,Denver,Nuggets,DEN,G,6-4,215,Kentucky,Canada
+456,Nnaji,Zeke,1630192,Denver,Nuggets,DEN,F-C,6-9,240,Arizona,USA
+457,Porter Jr.,Michael,1629008,Denver,Nuggets,DEN,F,6-10,218,Missouri,USA
+458,Smith,Ish,202397,Denver,Nuggets,DEN,G,6-0,175,Wake Forest,USA
+459,Watson,Peyton,1631212,Denver,Nuggets,DEN,G,6-7,200,UCLA,USA
+460,White,Jack,1631298,Denver,Nuggets,DEN,F,6-7,225,Duke,Australia
+461,Bridges,Mikal,1628969,Brooklyn,Nets,BKN,G-F,6-6,209,Villanova,USA
+462,Claxton,Nic,1629651,Brooklyn,Nets,BKN,C,6-11,215,Georgia,USA
+463,Curry,Seth,203552,Brooklyn,Nets,BKN,G,6-1,185,Duke,USA
+464,Dinwiddie,Spencer,203915,Brooklyn,Nets,BKN,G,6-5,215,Colorado,USA
+465,Duke Jr.,David,1630561,Brooklyn,Nets,BKN,G,6-4,204,Providence,USA
+466,Finney-Smith,Dorian,1627827,Brooklyn,Nets,BKN,F,6-7,220,Florida,USA
+467,Harris,Joe,203925,Brooklyn,Nets,BKN,G-F,6-6,220,Virginia,USA
+468,Johnson,Cameron,1629661,Brooklyn,Nets,BKN,F,6-8,210,North Carolina,USA
+469,Mills,Patty,201988,Brooklyn,Nets,BKN,G,6-0,180,St. Mary's,Australia
+470,O'Neale,Royce,1626220,Brooklyn,Nets,BKN,F,6-6,226,Baylor,USA
+471,Sharpe,Day'Ron,1630549,Brooklyn,Nets,BKN,C,6-9,265,North Carolina,USA
+472,Simmons,Ben,1627732,Brooklyn,Nets,BKN,G-F,6-10,240,Louisiana State,Australia
+473,Smith,Dru,1630696,Brooklyn,Nets,BKN,G,6-3,203,Missouri,USA
+474,Sumner,Edmond,1628410,Brooklyn,Nets,BKN,G,6-4,196,Xavier,USA
+475,Thomas,Cam,1630560,Brooklyn,Nets,BKN,G,6-3,210,Louisiana State,Japan
+476,Watanabe,Yuta,1629139,Brooklyn,Nets,BKN,G-F,6-8,215,George Washington,Japan
+477,Brissett,Oshae,1629052,Indiana,Pacers,IND,F-G,6-7,210,Syracuse,Canada
+478,Brown,Kendall,1631112,Indiana,Pacers,IND,G,6-7,205,Baylor,USA
+479,Duarte,Chris,1630537,Indiana,Pacers,IND,G,6-5,190,Oregon,Dominican Republic
+480,Haliburton,Tyrese,1630169,Indiana,Pacers,IND,G,6-5,185,Iowa State,USA
+481,Hield,Buddy,1627741,Indiana,Pacers,IND,G,6-4,220,Oklahoma,Bahamas
+482,Hill,George,201588,Indiana,Pacers,IND,G,6-4,188,Indiana-Purdue Indianapolis,USA
+483,Jackson,Isaiah,1630543,Indiana,Pacers,IND,F,6-9,205,Kentucky,USA
+484,Johnson,James,201949,Indiana,Pacers,IND,F,6-7,240,Wake Forest,USA
+485,Mathurin,Bennedict,1631097,Indiana,Pacers,IND,G-F,6-5,210,Arizona,Canada
+486,McConnell,T.J.,204456,Indiana,Pacers,IND,G,6-1,190,Arizona,USA
+487,Nembhard,Andrew,1629614,Indiana,Pacers,IND,G-F,6-3,191,Gonzaga,Canada
+488,Nesmith,Aaron,1630174,Indiana,Pacers,IND,G-F,6-5,215,Vanderbilt,USA
+489,Nwora,Jordan,1629670,Indiana,Pacers,IND,F,6-9,225,Louisville,USA
+490,Smith,Jalen,1630188,Indiana,Pacers,IND,F-C,6-9,215,Maryland,USA
+491,Theis,Daniel,1628464,Indiana,Pacers,IND,F-C,6-8,245,Brose Bamberg,Germany
+492,Turner,Myles,1626167,Indiana,Pacers,IND,C-F,6-11,250,Texas,USA
+493,York,Gabe,1628221,Indiana,Pacers,IND,G,6-3,190,Arizona,USA
+494,Brogdon,Malcolm,1627763,Boston,Celtics,BOS,G,6-4,229,Virginia,USA
+495,Brown,Jaylen,1627759,Boston,Celtics,BOS,G-F,6-6,223,California,USA
+496,Champagnie,Justin,1630551,Boston,Celtics,BOS,G-F,6-6,206,Pittsburgh,USA
+497,Davison,JD,1631120,Boston,Celtics,BOS,G,6-1,195,Alabama,USA
+498,Gallinari,Danilo,201568,Boston,Celtics,BOS,F,6-10,236,Olimpia Milano,Italy
+499,Griffin,Blake,201933,Boston,Celtics,BOS,F,6-9,250,Oklahoma,USA
+500,Hauser,Sam,1630573,Boston,Celtics,BOS,F,6-7,217,Virginia,USA
+501,Horford,Al,201143,Boston,Celtics,BOS,C-F,6-9,240,Florida,Dominican Republic
+502,Kabengele,Mfiondu,1629662,Boston,Celtics,BOS,C,6-10,250,Florida State,Canada
+503,Kornet,Luke,1628436,Boston,Celtics,BOS,C-F,7-2,250,Vanderbilt,USA
+504,Muscala,Mike,203488,Boston,Celtics,BOS,F-C,6-11,240,Bucknell,USA
+505,Pritchard,Payton,1630202,Boston,Celtics,BOS,G,6-1,195,Oregon,USA
+506,Smart,Marcus,203935,Boston,Celtics,BOS,G,6-4,220,Oklahoma State,USA
+507,Tatum,Jayson,1628369,Boston,Celtics,BOS,F-G,6-8,210,Duke,USA
+508,White,Derrick,1628401,Boston,Celtics,BOS,G,6-4,190,Colorado,USA
+509,Williams,Grant,1629684,Boston,Celtics,BOS,F,6-6,236,Tennessee,USA
+510,Williams III,Robert,1629057,Boston,Celtics,BOS,C-F,6-9,237,Texas Au0026M,USA
+511,Butler,Jared,1630215,Oklahoma City,Thunder,OKC,G,6-3,193,Baylor,USA
+512,Dieng,Ousmane,1631172,Oklahoma City,Thunder,OKC,F,6-9,185,New Zealand Breakers,France
+513,Dort,Luguentz,1629652,Oklahoma City,Thunder,OKC,G,6-4,220,Arizona State,Canada
+514,Giddey,Josh,1630581,Oklahoma City,Thunder,OKC,G,6-8,216,NBA Global Academy,Australia
+515,Gilgeous-Alexander,Shai,1628983,Oklahoma City,Thunder,OKC,G,6-6,195,Kentucky,Canada
+516,Holmgren,Chet,1631096,Oklahoma City,Thunder,OKC,C-F,7-1,195,Gonzaga,USA
+517,Joe,Isaiah,1630198,Oklahoma City,Thunder,OKC,G,6-3,165,Arkansas,USA
+518,Mann,Tre,1630544,Oklahoma City,Thunder,OKC,G,6-3,178,Florida,USA
+519,Pokusevski,Aleksej,1630197,Oklahoma City,Thunder,OKC,F,7-0,210,Olympiacos,Serbia
+520,Robinson-Earl,Jeremiah,1630526,Oklahoma City,Thunder,OKC,F,6-8,240,Villanova,USA
+521,Saric,Dario,203967,Oklahoma City,Thunder,OKC,F-C,6-10,225,Anadolu Efes,Croatia
+522,Sarr,Olivier,1630846,Oklahoma City,Thunder,OKC,C,6-11,240,Kentucky,France
+523,Waters III,Lindy,1630322,Oklahoma City,Thunder,OKC,F,6-6,210,Oklahoma State,USA
+524,Wiggins,Aaron,1630598,Oklahoma City,Thunder,OKC,G,6-5,190,Maryland,USA
+525,Williams,Jalen,1631114,Oklahoma City,Thunder,OKC,G-F,6-5,211,Santa Clara,USA
+526,Williams,Jaylin,1631119,Oklahoma City,Thunder,OKC,F,6-9,240,Arkansas,USA
+527,Williams,Kenrich,1629026,Oklahoma City,Thunder,OKC,G-F,6-6,210,TCU,USA
+528,Dedmon,Dewayne,203473,Philadelphia,76ers,PHI,C,6-10,245,Southern California,USA
+529,Embiid,Joel,203954,Philadelphia,76ers,PHI,C-F,7-0,280,Kansas,Cameroon
+530,Harden,James,201935,Philadelphia,76ers,PHI,G,6-5,220,Arizona State,USA
+531,Harrell,Montrezl,1626149,Philadelphia,76ers,PHI,F-C,6-7,240,Louisville,USA
+532,Harris,Tobias,202699,Philadelphia,76ers,PHI,F,6-7,226,Tennessee,USA
+533,House Jr.,Danuel,1627863,Philadelphia,76ers,PHI,F-G,6-6,220,Texas Au0026M,USA
+534,King,Louis,1629663,Philadelphia,76ers,PHI,F,6-7,205,Oregon,USA
+535,Korkmaz,Furkan,1627788,Philadelphia,76ers,PHI,G-F,6-7,202,Anadolu Efes,Turkey
+536,Maxey,Tyrese,1630178,Philadelphia,76ers,PHI,G,6-2,200,Kentucky,USA
+537,McClung,Mac,1630644,Philadelphia,76ers,PHI,G,6-2,185,Texas Tech,USA
+538,McDaniels,Jalen,1629667,Philadelphia,76ers,PHI,F-C,6-9,205,San Diego State,USA
+539,Melton,De'Anthony,1629001,Philadelphia,76ers,PHI,G,6-2,200,Southern California,USA
+540,Milton,Shake,1629003,Philadelphia,76ers,PHI,G-F,6-5,205,Southern Methodist,USA
+541,Niang,Georges,1627777,Philadelphia,76ers,PHI,F,6-7,230,Iowa State,USA
+542,Reed,Paul,1630194,Philadelphia,76ers,PHI,F,6-9,210,DePaul,USA
+543,Springer,Jaden,1630531,Philadelphia,76ers,PHI,G,6-4,202,Tennessee,USA
+544,Tucker,P.J.,200782,Philadelphia,76ers,PHI,F,6-5,245,Texas,USA

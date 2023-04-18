@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html style="font-family:Times New Roman">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome</title>
+    <style>
+        h1 {
+            font-family:Arial Helvetica;
+            height:50px;
+            background-color:#4a4e69;
+            color:white;
+            padding:30px;
+            text-align:center;
+
+        }
+        body{
+            background-color:#f2e9e4;
+        }
+        h2{
+            font-family:Arial Helvetica;
+            font-size:25;
+            margin:30px;
+        }
+        h3{
+            font-family:Arial Helvetica;
+            font-size:22;
+            margin:30px;
+        }
+        h4{
+            font-family:Arial Helvetica;
+            font-size:20;
+            margin:30px;
+        }
+        ul {
+            font-family:Arial Helvetica;
+            color: black;
+            margin-left:10px;
+            line-height:200%;
+            font-size:20;
+        }
+        footer{
+            font-family:Arial Helvetica;
+            font-weight:bold;
+            height:50px;
+            background-color:#c9ada7;
+            color:#4a4e69;
+            padding:20px;
+            line-height:200%;
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+        }
+     </style>
+</head>
+<body>
+    <h1>
+        {{conference_name}}
+    </h1>
+    <h2>
+        Position: {{position_name}}
+    </h2>
+    <h3>
+        Team: {{team_name}}
+    </h3>
+    <h4>
+        Player: {{player_name}}
+    </h4>
+    <ul>
+        <li>Name: {{player_dict['PLAYER_NAME']}}</li>
+        <li>Height: {{player_dict['HEIGHT']}}</li>
+        <li>Weight: {{player_dict['WEIGHT']}}</li>
+        <li>Colledge: {{player_dict['COLLEGE']}}</li>
+        <li>Country: {{player_dict['COUNTRY']}}</li>
+        <li>Average points: {{player_dict['PTS']}}</li>
+        <li>Average rebound: {{player_dict['REB']}}</li>
+        <li>Average assist: {{player_dict['AST']}}</li>
+    </ul>
+</body>
+<footer>
+    <a href='/conference/{{conference_name}}/position/{{position_name}}/team/{{team_name}}'>Go back</a>
+    <br>
+    <a href='/'>Home</a>
+</footer>
+</html>

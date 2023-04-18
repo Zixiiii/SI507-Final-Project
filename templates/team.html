@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html style="font-family:Times New Roman">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome</title>
+    <style>
+        h1 {
+            font-family:Arial Helvetica;
+            height:50px;
+            background-color:#4a4e69;
+            color:white;
+            padding:30px;
+            text-align:center;
+
+        }
+        body{
+            background-color:#f2e9e4;
+        }
+        h2{
+            font-family:Arial Helvetica;
+            font-size:25;
+            margin:30px;
+        }
+        h3{
+            font-family:Arial Helvetica;
+            font-size:22;
+            margin:30px;
+        }
+        h4{
+            font-family:Arial Helvetica;
+            font-size:20;
+            margin:30px;
+        }
+        ul {
+            font-family:Arial Helvetica;
+            color: black;
+            margin-left:10px;
+            line-height:200%;
+            font-size:20;
+        }
+        footer{
+            font-family:Arial Helvetica;
+            font-weight:bold;
+            height:50px;
+            background-color:#c9ada7;
+            color:#4a4e69;
+            padding:20px;
+            line-height:200%;
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+        }
+     </style>
+</head>
+<body>
+    <h1>
+        {{conference_name}}
+    </h1>
+    <h2>
+        Position: {{position_name}}
+    </h2>
+    <h3>
+        Team: {{team_name}}
+    </h3>
+    <h4>Player</h4>
+    <ul>
+        {%for player in team_tree.nodes:%}
+            <li><a href='/conference/{{conference_name}}/position/{{position_name}}/team/{{team_name}}/player/{{player.val['PLAYER_NAME']}}'>{{player.val['PLAYER_NAME']}}</a></li>
+        {% endfor %}
+    </ul>
+</body>
+<footer>
+    <a href='/conference/{{conference_name}}/position/{{position_name}}'>Go back</a>
+    <br>
+    <a href='/'>Home</a>
+</footer>
+</html>
